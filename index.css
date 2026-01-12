@@ -1,0 +1,8 @@
+/* Minimal stylesheet to avoid missing /index.css at runtime. */
+/* Tailwind is loaded via CDN in index.html, so this file can be small. */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* You can add global overrides here if needed. */
