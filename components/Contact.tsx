@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
                   <div className="bg-white/20 p-3 rounded-xl"><Mail size={24} /></div>
                   <div>
                     <div className="font-bold">البريد الإلكتروني</div>
-                    <div className="text-emerald-50">info@rawadservice.com</div>
+                    <div className="text-emerald-50">abonooncompan@gmail.com</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
